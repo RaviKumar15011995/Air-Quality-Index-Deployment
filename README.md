@@ -1,6 +1,9 @@
 # AQI-Deployment
 
+The aim of this model is to predict out the air quality index of our city on each day.
+
 API Link-  https://air-quality-index-dep.herokuapp.com/
+
 
 InDependent Features
 
